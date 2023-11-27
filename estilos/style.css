@@ -56,3 +56,23 @@ section#login > div#formulario {
     display: block;
     padding: 10px;
 }
+
+form > input[type=submit] {
+    display: block;
+    color: black; 
+    background-color: #49a09d52;
+    
+}
+
+form > a {
+    display: block;
+    padding: 5px;
+    text-decoration: none;
+    color: black;
+    background-color: #49a09d52;
+    box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.781);
+}
+
+form > p {
+    
+}
